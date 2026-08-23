@@ -13,6 +13,7 @@ You can try the deployed application here:
 ------------------------------------------------------------------------
 
 ## Project Overview
+![Brain Tumor Detection & Localization](brain-tumor-banner.png)
 
 Brain tumor analysis from MRI images is an important application of
 artificial intelligence in medical imaging. This project implements a
