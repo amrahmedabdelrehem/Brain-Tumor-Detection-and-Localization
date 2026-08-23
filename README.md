@@ -9,7 +9,7 @@ image segmentation.
 
 You can try the deployed application here:
 
-[Brain Tumor Detection & Localization App]([YOUR_STREAMLIT-APP-LINK](https://brain-tumor-detection-and-localization.streamlit.app/))
+[Brain Tumor Detection & Localization App]((https://brain-tumor-detection-and-localization.streamlit.app/))
 
 ------------------------------------------------------------------------
 
